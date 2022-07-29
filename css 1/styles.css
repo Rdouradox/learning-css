@@ -1,0 +1,67 @@
+/* css rule*/
+/* selector (h1 )*/
+/* { } declaration block */
+/* color - property */
+/* green - value */
+
+/* AGRUPAR PARA FACILITAR
+h1, */
+/*h2,
+p {
+  color: red;
+}*/
+
+/* COMO USAR ID  */
+/*#title {
+  color: red;
+  background: black;
+}
+#footer {
+  color: blue;
+  background: grey;
+}*/
+
+/* SELETOR DE CLASS */
+/*.green {
+  color: green;
+}
+.red {
+  color: red;
+  background: black;
+}*/
+
+/* COMBINE ID AND CLASS */
+/* PS: fiz uma classe chamada GREEN UPPERCALE*/
+/*.green {
+  color: green;
+}
+.red {
+  color: red;
+}
+#title {
+  font-size: 50px;
+}
+.uppercase {
+  text-transform: uppercase;
+}*/
+
+/* DIV e SPAN
+DIV - usado para agrupar multiplos elementos
+SPAN - usado para agrupar inline content
+*/
+
+/* p {
+  color: red;
+}
+
+.special {
+  color: green;
+} */
+
+/* * {
+  color: green;
+} */
+
+.container p {
+  color: red;
+}
